@@ -1,0 +1,8 @@
+# General
+.DS_Store
+
+# compiled python files
+*.pyc
+
+
+
